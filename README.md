@@ -1,2 +1,3 @@
-# React - Typescript MarkDown supported Note App
+# MarkDown supported Note App
+### React - Typescript 
 ##### 2022. 11. 23
